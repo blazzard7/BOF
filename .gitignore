@@ -1,0 +1,10 @@
+Assembly-CSharp.csproj
+Library/
+Logs/
+NavMeshPlus.csproj
+NavMeshPlusEditor.csproj
+Packages/
+ProjectSettings/
+Temp/
+UserSettings/
+magic adventure.sln
