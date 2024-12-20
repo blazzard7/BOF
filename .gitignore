@@ -1,10 +1,12 @@
+.vs
+Library
+Logs
+obj
+Packages
+ProjectSettings
+Temp
+UserSettings
+.vsconfig
 Assembly-CSharp.csproj
-Library/
-Logs/
-NavMeshPlus.csproj
-NavMeshPlusEditor.csproj
-Packages/
-ProjectSettings/
-Temp/
-UserSettings/
-magic adventure.sln
+menu.sln
+.git
